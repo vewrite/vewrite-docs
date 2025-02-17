@@ -103,16 +103,49 @@ const config = {
         style: 'light',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentation',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Get Started',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Core Concepts',
+                to: '/docs/',
+              },
+              {
+                label: 'Workflows',
+                to: '/docs/',
+              },
+              {
+                label: 'Walkthroughs',
+                to: '/docs/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Company',
+            items: [
+              {
+                label: 'Homepage',
+                href: 'https://vewrite.com/',
+              },
+              {
+                label: 'News',
+                href: 'https://vewrite.com/articles',
+              },
+              {
+                label: 'Mission',
+                href: 'https://vewrite.com/company/mission',
+              },
+              {
+                label: 'Support',
+                href: 'https://vewrite.com/support',
+              },
+            ],
+          },
+          {
+            title: 'Social Links',
             items: [
               {
                 label: 'Github',
