@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/vewrite-social-card.jpg',
       navbar: {
         title: 'Vewrite Documentation',
         logo: {
@@ -73,6 +73,24 @@ const config = {
             position: 'left',
             label: 'Get Started',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'coreconceptsSidebar',
+            position: 'left',
+            label: 'Core Concepts',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'workflowsSidebar',
+            position: 'left',
+            label: 'Workflows',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'walkthroughsSidebar',
+            position: 'left',
+            label: 'Walkthroughs',
+          }
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',

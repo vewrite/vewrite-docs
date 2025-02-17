@@ -53,3 +53,27 @@
     max-width: 600px;
   }
 }
+
+button,
+.button {
+    color: var(--white) !important;
+    background: var(--brand);
+    border-radius: .5rem;
+    text-align: center;
+    text-decoration: none;
+    padding: 8px 24px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    text-transform: capitalize;
+    min-height: 24px;
+    border: none;
+    text-wrap: nowrap;
+
+    &:hover {
+        transform: scale(1.035);
+    }
+}
