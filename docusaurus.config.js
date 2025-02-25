@@ -105,15 +105,15 @@ const config = {
               },
               {
                 label: 'Core Concepts',
-                to: '/docs/',
+                to: '/docs/core-concepts/introduction',
               },
               {
                 label: 'Workflows',
-                to: '/docs/',
+                to: '/docs/workflows/introduction',
               },
               {
                 label: 'Walkthroughs',
-                to: '/docs/',
+                to: '/docs/walkthroughs/introduction',
               },
             ],
           },
