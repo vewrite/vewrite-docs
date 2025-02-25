@@ -18,9 +18,6 @@ Vewrite has a few types of information that it uses to give structure to the pro
 - Projects
   - Owner
   - Member
-- Roles
-  - Manager
-  - Writer
 - Deliverables
 - Workflows
   - States
