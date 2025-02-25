@@ -2,46 +2,20 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Get Started
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Welcome to Vewrite
 
-## Getting Started
+If you're here, you're looking for a better way to write content together as a team. Vewrite is a productivity tool designed to allow groups to create projects and their deliverables, while pushing them through a structured workflow. The end goal is to automate as much of the process away, leaving you with the best in class tools to focus on what is most important to your clients and stakeholders: the writing itself.
 
-Get started by **creating a new site**.
+### Overview of the documentation
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+This documentation is broken up in to a few discrete sections, with the intent to get you up to speed as quickly as possible.
 
-### What you'll need
+- **Core concepts** - Vewrite uses a few core concepts that will be referenced throughout the documentation. This section houses basic explanations and definitions for anything that may be unclear.
+- **Workflows** - Vewrite is based on the concept of structured workflows and this section houses a detailed overview of those workflows and their states.
+- **Walkthroughs** - While Vewrite's basic functionality is fairly straightforward, we do provide some tutorials that show you, step by step, how to complete tasks within Vewrite.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Support
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Support for Vewrite is provided through our public support email: support@vewrite.com. Please allow for up to 24 hours for a response.
