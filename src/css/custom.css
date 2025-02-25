@@ -47,7 +47,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  color: var(--brand);
+  color: var(--black);
 
   .container {
     max-width: 600px;
