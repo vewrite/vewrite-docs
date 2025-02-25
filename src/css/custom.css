@@ -42,7 +42,8 @@
 }
 
 .home-hero {
-  background: var(--gray-light);
+  background: var(--gray-light) url('/img/linkedin-vewrite-productive.jpg') no-repeat center center;
+  background-size: cover;
   min-height: 90vh;
   display: flex;
   justify-content: center;
