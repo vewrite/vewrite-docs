@@ -12,7 +12,7 @@ If you're here, you're looking for a better way to write content together as a t
 
 This documentation is broken up in to a few discrete sections, with the intent to get you up to speed as quickly as possible.
 
-- **Core concepts** - Vewrite uses a few core concepts that will be referenced throughout the documentation. This section houses basic explanations and definitions for anything that may be unclear.
+- **[Core concepts](/docs/category/core-concepts)** - Vewrite uses a few core concepts that will be referenced throughout the documentation. This section houses basic explanations and definitions for anything that may be unclear.
 - **Workflows** - Vewrite is based on the concept of structured workflows and this section houses a detailed overview of those workflows and their states.
 - **Walkthroughs** - While Vewrite's basic functionality is fairly straightforward, we do provide some tutorials that show you, step by step, how to complete tasks within Vewrite.
 
