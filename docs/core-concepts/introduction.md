@@ -17,3 +17,5 @@ Vewrite has a few types of information that it uses to give structure to the pro
 - Teams
 - Projects
 - Deliverables
+
+You should take a few minutes and familiarize yourself with each concept before jumping into the other sections.
