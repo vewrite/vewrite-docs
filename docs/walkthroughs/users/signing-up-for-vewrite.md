@@ -3,8 +3,6 @@ sidebar_position: 1
 title: "Signing up for Vewrite"
 ---
 
-## Signing up for Vewrite
-
 To sign up to Vewrite, head on over to the [authentication page](https://app.vewrite.com/login) and select "sign up".
 
 ![Sign up to Vewrite](/img/sign-up/sign-up.png)
