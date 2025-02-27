@@ -12,7 +12,7 @@ We have put together a set of walkthroughs to make your onboarding process into 
 - Signing up for Vewrite
 - Setting up your profile
 
-### Project Manager
+### Project Managers
 
 - Creating a Client
 - Creating a Team

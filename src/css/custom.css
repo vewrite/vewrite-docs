@@ -78,3 +78,11 @@ button,
         transform: scale(1.035);
     }
 }
+
+.theme-doc-markdown img {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 1rem 0;
+  border-radius: 1rem;
+  width: auto;
+  max-width: 100%;
+}
