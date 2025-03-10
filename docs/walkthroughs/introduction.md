@@ -18,8 +18,7 @@ We have put together a set of walkthroughs to make your onboarding process into 
 - Creating a Team
 - Creating a Project
 - Creating Deliverables
-- Setting Requirements
-- Managing your Project
+- Managing your Deliverable
 - Downloading a Deliverable
 
 ### Writer
