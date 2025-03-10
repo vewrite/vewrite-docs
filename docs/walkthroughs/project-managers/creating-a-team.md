@@ -11,7 +11,7 @@ To create a team, you must be a project manager. If you selected your persona as
 
 Creating a team is easy. Just click the "create team" button and add a name.
 
-![Create tea modal](/img/teams/create-team.png)
+![Create team modal](/img/teams/create-team.png)
 
 Once you are ready, click "Create" and your team will be created.
 
