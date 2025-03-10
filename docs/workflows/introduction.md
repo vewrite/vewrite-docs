@@ -26,5 +26,5 @@ Workflows are comprised of different state types. Each of these states has some 
 - Actions (e.g. send notification, send email)
 
 Together, these elements allow for a highly customizable and flexible workflow to be created. 
-
+$$
 Vewrite comes with a default workflow that is refined and targeted at writing groups who require approval from a reviewer before completion. This fits most use-cases within marketing groups, developer relations units, and technical writing teams.
